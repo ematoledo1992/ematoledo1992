@@ -18,7 +18,7 @@
 
 # Bienvenidos! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
  <!-- Profile views -->
- <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+ <img src="C:\Users\Tilin\Documents\GitHub\ematoledo1992\Haker.png" align="right" height="300">
  
  <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
   
