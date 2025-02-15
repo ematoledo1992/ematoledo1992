@@ -21,7 +21,7 @@
 <!-- Profile views -->
 <img src="https://github.com/ematoledo1992/ematoledo1992/raw/main/Haker.png" align="right" height="300">
 
-<p align="left">Hola, soy ZeroSec, un desarrollador Junior de Argentina.  
+<p align="left">Hola, soy ematoledo1992 alias ZeroSec, un desarrollador Junior de Argentina.  
 Vivo en Ushuaia y estudio Licenciatura en Sistemas.</p>
 
 🌱 Actualmente estoy aprendiendo Python, Java y tengo un amplio conocimiento en redes y servidores.  
@@ -65,5 +65,5 @@ Próximamente contaré con un blog personal donde compartiré mis experiencias y
 
 
 ------
-Credit: [ematoledo1992]([https://github.com/ematoledo1992])
+Credit: [ematoledo1992-ZeroSec]([https://github.com/ematoledo1992])
 Last Edited on: 21/11/2024
