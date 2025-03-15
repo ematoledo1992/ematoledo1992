@@ -24,7 +24,7 @@
 <p align="left">Hola, soy ematoledo1992 alias ZeroSec, un desarrollador Junior de Argentina.  
 Vivo en Ushuaia y estudio Licenciatura en Sistemas.</p>
 
-🌱 Actualmente estoy aprendiendo Python, Java y tengo un amplio conocimiento en redes y servidores.  
+🌱 Actualmente estoy aprendiendo Python, Java, Angular y tengo un amplio conocimiento en redes y servidores.  
 
 👯 Estoy buscando colaborar en proyectos para seguir perfeccionándome en esta profesión.
 
